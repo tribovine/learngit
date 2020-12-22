@@ -7,4 +7,5 @@ fifth line
 7th: this line is only for dev 
 there must be a conflict!!!
 9th: the 9th line
-this is master
+i made conflict at dev
+this is new
