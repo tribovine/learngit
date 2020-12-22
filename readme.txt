@@ -8,3 +8,4 @@ fifth line
 8th: this line is on master ( keep the master) // there must be a conflict!!!
 9th: the 9th line
 i made conflict at dev
+this is new
